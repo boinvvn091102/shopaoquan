@@ -1,0 +1,175 @@
+{
+  "categories": [
+    {
+      "name": "ÁO PHÔNG",
+      "id": 1
+    },
+    {
+      "name": "ÁO NỈ",
+      "id": 2
+    },
+    {
+      "name": "ÁO KHOÁC",
+      "id": 3
+    },
+    {
+      "name": "QUẦN",
+      "id": 4
+    },
+    {
+      "name": "SET",
+      "id": 5
+    },
+    {
+      "name": "BALO - TÚI",
+      "id": 6
+    }
+  ],
+  "products": [
+    {
+      "name": "ÁO THUN BLACK BOY",
+      "cate_id": "1",
+      "price": "185000",
+      "detail": "Chất liệu 100% Cotton cao cấp\n\nCotton bền vững: Góp phần bảo vệ môi trường sống\n\nLoại sợi chất lượng cao: Độ mảnh và khả năng nhuộm ưu việt\n\nThấm hút mồ hôi tốt, thoáng mát, rất thích hợp với thời tiết nóng ẩm việt Nam\n\nCo giãn nhẹ, phù hợp với chuyển động của cơ thể\n\nForm dáng suông giúp tạo sự thoải mái cử động cho người mặc\n\n\n",
+      "image": "21012022090128_mock_up_1660.jpg",
+      "id": 1
+    },
+    {
+      "name": "ÁO THUN OVERSIZE ODIN",
+      "cate_id": "1",
+      "price": "185000",
+      "detail": "Chất liệu 100% Cotton cao cấp Góp phần bảo vệ môi trường sống Loại sợi chất lượng cao độ mảnh và khả năng nhuộm ưu việt Thấm hút mồ hôi tốt, thoáng mát, rất thích hợp với thời tiết nóng ẩm việt Nam Co giãn nhẹ, phù hợp với chuyển động của cơ thể Form dáng suông giúp tạo sự thoải mái cử động cho người mặc.",
+      "image": "21012022090107_mock_up_1661.jpg",
+      "id": 2
+    },
+    {
+      "name": "ÁO SWEATER OVERSIZE OD BOXING TIGER",
+      "cate_id": "2",
+      "price": "250000",
+      "detail": "Cực kỳ nhanh khô, thoải mái và dễ mặc. Một chiếc áo parka có hiệu năng cao giúp bảo vệ bạn khỏi tia UV.",
+      "image": "24012022100138_mock_up_1674.jpg",
+      "id": 3
+    },
+    {
+      "name": "ÁO VARSITY ODIN STUDIO BEAR",
+      "cate_id": "3",
+      "price": "500000",
+      "detail": "áo khoác bomber thời trang siêu đẹp",
+      "image": "03012022040156_1.jpg",
+      "id": 4
+    },
+    {
+      "name": "QUẦN DÀI RACING PANTS",
+      "cate_id": "4",
+      "price": "220000",
+      "detail": "Quần dài Racing Pants, JACKLANE, Quần dài Unisex Jack Lane đang được bán bởi shop đã được chứng thực nên bạn hoàn toàn co thể an tâm khi mua hàng mà không lo mất tất cả. Hiện đã có 100 sản phẩm được bán ra nên bạn hay nhanh chân lên để chọn lấy sản phẩm xịn nhất nhưng phù hợp với túi tiền, ngoại hình của mình nhất.",
+      "image": "z2406975430812_420dd32639dc0daf6f4a9b6a2724ca18.jpg",
+      "id": 5
+    },
+    {
+      "name": "SET BỘ OVERSIZE BEEHIVE",
+      "cate_id": "5",
+      "price": "285000",
+      "detail": "Thông tin sản phẩm Set bộ by JACK LANE - Xuất xứ: Việt Nam - Chất liệu: cotton thấm hút mồ hôi tốt, thoáng mát",
+      "image": "22072021050731_z2631616685113_39243042820389af90916f23a924c06e.jpg",
+      "id": 6
+    },
+    {
+      "name": "TÚI ĐEO CHÉO ODIN",
+      "cate_id": "6",
+      "price": "149000",
+      "detail": "Túi  đeo chéo ODIN thời trang thích hợp với giới trẻ ",
+      "image": "119972219_172492011115483_7793237516902329210_o.jpg",
+      "id": 7
+    }
+  ],
+  "orders": [
+    {
+      "customer_name": "Duc Minh",
+      "customer_address": "Da Nang",
+      "customer_email": "minhnd@gmail.com",
+      "customer_phone_number": "012333333",
+      "created_date": "10:48- Ngày: 28-2-2022",
+      "status": 0,
+      "order_detail": [
+        {
+          "name": "ÁO VARSITY ODIN STUDIO BEAR",
+          "cate_id": "3",
+          "price": "500000",
+          "detail": "áo khoác bomber thời trang siêu đẹp",
+          "image": "03012022040156_1.jpg",
+          "id": 4,
+          "quantity": 1
+        },
+        {
+          "name": "SET BỘ OVERSIZE BEEHIVE",
+          "cate_id": "5",
+          "price": "285000",
+          "detail": "Thông tin sản phẩm Set bộ by JACK LANE - Xuất xứ: Việt Nam - Chất liệu: cotton thấm hút mồ hôi tốt, thoáng mát",
+          "image": "22072021050731_z2631616685113_39243042820389af90916f23a924c06e.jpg",
+          "id": 6,
+          "quantity": 2
+        }
+      ],
+      "id": 22
+    },
+    {
+      "customer_name": "Duc Minh",
+      "customer_address": "Da Nang",
+      "customer_email": "boi@gmail.com",
+      "customer_phone_number": "0978666666",
+      "created_date": "15:24- Ngày: 28-2-2022",
+      "status": 0,
+      "order_detail": [
+        {
+          "name": "ÁO THUN BLACK BOY",
+          "cate_id": "1",
+          "price": "185000",
+          "detail": "Chất liệu 100% Cotton cao cấp\n\nCotton bền vững: Góp phần bảo vệ môi trường sống\n\nLoại sợi chất lượng cao: Độ mảnh và khả năng nhuộm ưu việt\n\nThấm hút mồ hôi tốt, thoáng mát, rất thích hợp với thời tiết nóng ẩm việt Nam\n\nCo giãn nhẹ, phù hợp với chuyển động của cơ thể\n\nForm dáng suông giúp tạo sự thoải mái cử động cho người mặc\n\n\n",
+          "image": "21012022090128_mock_up_1660.jpg",
+          "id": 1,
+          "quantity": 1
+        },
+        {
+          "name": "ÁO THUN OVERSIZE ODIN",
+          "cate_id": "1",
+          "price": "185000",
+          "detail": "Chất liệu 100% Cotton cao cấp Góp phần bảo vệ môi trường sống Loại sợi chất lượng cao độ mảnh và khả năng nhuộm ưu việt Thấm hút mồ hôi tốt, thoáng mát, rất thích hợp với thời tiết nóng ẩm việt Nam Co giãn nhẹ, phù hợp với chuyển động của cơ thể Form dáng suông giúp tạo sự thoải mái cử động cho người mặc.",
+          "image": "21012022090107_mock_up_1661.jpg",
+          "id": 2,
+          "quantity": 1
+        }
+      ],
+      "id": 23
+    },
+    {
+      "customer_name": "Nguyen Dat",
+      "customer_address": "Da Nang",
+      "customer_email": "boi@gmail.com",
+      "customer_phone_number": "0978666666",
+      "created_date": "15:25- Ngày: 28-2-2022",
+      "status": 0,
+      "order_detail": [
+        {
+          "name": "ÁO THUN BLACK BOY",
+          "cate_id": "1",
+          "price": "185000",
+          "detail": "Chất liệu 100% Cotton cao cấp\n\nCotton bền vững: Góp phần bảo vệ môi trường sống\n\nLoại sợi chất lượng cao: Độ mảnh và khả năng nhuộm ưu việt\n\nThấm hút mồ hôi tốt, thoáng mát, rất thích hợp với thời tiết nóng ẩm việt Nam\n\nCo giãn nhẹ, phù hợp với chuyển động của cơ thể\n\nForm dáng suông giúp tạo sự thoải mái cử động cho người mặc\n\n\n",
+          "image": "21012022090128_mock_up_1660.jpg",
+          "id": 1,
+          "quantity": 1
+        },
+        {
+          "name": "ÁO THUN OVERSIZE ODIN",
+          "cate_id": "1",
+          "price": "185000",
+          "detail": "Chất liệu 100% Cotton cao cấp Góp phần bảo vệ môi trường sống Loại sợi chất lượng cao độ mảnh và khả năng nhuộm ưu việt Thấm hút mồ hôi tốt, thoáng mát, rất thích hợp với thời tiết nóng ẩm việt Nam Co giãn nhẹ, phù hợp với chuyển động của cơ thể Form dáng suông giúp tạo sự thoải mái cử động cho người mặc.",
+          "image": "21012022090107_mock_up_1661.jpg",
+          "id": 2,
+          "quantity": "2"
+        }
+      ],
+      "id": 24
+    }
+  ]
+}
